@@ -1,0 +1,15 @@
+{
+  "id": 123,
+  "name": "Henry Smith",
+  "age": 28,
+  "salary": 2000,
+  "designation": "Programmer",
+  "phoneNumbers": [
+    654321,
+    222333
+  ],
+  "personalInformation": {
+    "gender": "Male",
+    "maritialstatus": "Married"
+  }
+}
